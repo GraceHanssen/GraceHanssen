@@ -1,6 +1,7 @@
+<!-- 
 ### Hi there 👋
 
-<!--
+
 **GraceHanssen/GraceHanssen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -40,9 +41,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gracehanssen&label=Profile%20views&color=0e75b6&style=flat" alt="gracehanssen" /> </p>
 
-- 🔭 I’m currently studying **Back-end Development**
+- :woman_student: I’m currently studying **Back-end Development**
 
-- 📫 How to reach me **saccharin07@hotmail.com**
+- :e-mail: How to reach me **saccharin07@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
