@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :checkered_flag: Welcome to my Github page!
+<h1 align="center">Hello, welcome to my Github page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center">My name is Grace!</h1>
 <h3 align="center">I am a web developer with years of experience in Front-end development. </h3>
 
