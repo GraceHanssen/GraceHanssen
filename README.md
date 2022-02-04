@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 :checkered_flag: Welcome to my Github page! 
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 :pushpin: Larvik, Vestfold 3260 :norway:	
 
 :capital_abcd: Filipino (Tagalog), English, Norsk (Bokmål)
+
+-->
 
 
 <h1 align="center">Hi 👋, I'm Grace</h1>
