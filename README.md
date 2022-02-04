@@ -39,9 +39,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">~ Demonstrating curiosity and making the most of opportunities to learn, improve and innovate ~</h3><br><br>
 
-- :desktop_computer: I am currently studying **Back-end Development**
+- :desktop_computer: I am a web developer with years of experience in **Front-end Development**.
+  
+- :woman_student: An aspiring software developer so I am currently studying **Back-end Development**
 
 - :e-mail: You can reach me at **saccharin07@hotmail.com**
+  
+<br>
 
 <h3 align="left">You can find me at:</h3>
 <p align="left">
