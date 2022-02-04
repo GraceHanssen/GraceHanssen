@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/GraceHanssen/GraceHanssen/master/wave.gif" width="30px">
-<h1 align="center">Hi👋 I'm Grace!</h1>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">👋 I'm Grace!</h1>
 <h3 align="center">Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gracehanssen&label=Profile%20views&color=0e75b6&style=flat" alt="gracehanssen" /> </p>
 
 - :desktop_computer: I’m currently studying **Back-end Development**
 
-- :e-mail: How to reach me **saccharin07@hotmail.com**
+- :e-mail: You can reach me at **saccharin07@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
