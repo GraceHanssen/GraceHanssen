@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello, welcome to my Github page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3 align="center">- Demonstrating curiosity and making the most of opportunities to learn, improve and innovate -</h3>
+<h3 align="center">~ Demonstrating curiosity and making the most of opportunities to learn, improve and innovate ~</h3><br><br>
 
 - :desktop_computer: I am currently studying **Back-end Development**
 
