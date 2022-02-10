@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 <h3 align="center">~ Demonstrating curiosity and making the most of opportunities to learn, improve and innovate ~</h3><br><br>
 
 
-- :desktop_computer: I worked as a **web developer** for a small digital firm for 2.5 years.
+- :desktop_computer: I have worked as a **web developer** for a small digital firm for almost three years.
   
 - :computer: **Front-end Development** self-taught.
   
-- :desktop_computer: I completed a **Full stack development** program care of We Ignite Tech in Oslo.
+- :woman_technologist: I have completed a **Full stack development** program course, care of We Ignite Tech in Oslo.
   
-- :woman_student: And I am an **aspiring software developer** so I am currently studying **Back-end Development**.
+- :woman_student: And I am an **aspiring software developer** and a full time student focusing on **Back-end Development**.
 
 - :e-mail: Feel free to reach out via email: **saccharin07@hotmail.com**
   
