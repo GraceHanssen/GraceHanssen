@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- 🙂
 
 
 :checkered_flag: Welcome to my Github page! 
@@ -40,15 +40,17 @@ Here are some ideas to get you started:
 <h3 align="center">~ Demonstrating curiosity and making the most of opportunities to learn, improve and innovate ~</h3><br><br>
 
 
-- :desktop_computer: I have worked as a **web developer** for a small digital firm for almost three years.
-  
-- :computer: **Front-end Development** self-taught.
-  
-- :woman_technologist: I have completed a **Full stack development** program course, care of We Ignite Tech in Oslo.
-  
-- :woman_student: And I am an **aspiring software developer** and a full time student focusing on **Back-end Development**.
+👩‍🎓  I graduted Bachelor of Science in Computer Science at STI-College Tacloban Leyte, Philippines.
 
-- :e-mail: Feel free to reach out via email: **saccharin07@hotmail.com**
+💻 I am a Front-end Development self-taught using w3schools, SoloLearn, TeamTreeHouse, FreeCodeCamp and many other learning platforms online.
+
+👩‍💻 I have completed a **Full Stack Development** program, care of We Ignite Tech in Oslo.
+
+🖥️ I have worked as a **web developer** for a small digital firm for almost three years.
+
+🙂 And now I am an aspiring **software developer** and a full time student focusing on Back-end Development.
+
+📧 I am willing to be mentored, open for internship and job opportunities as a developer. So please do not hesitate to reach out to me via email: saccharin07@hotmail.com
   
 <br>
 
