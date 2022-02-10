@@ -39,9 +39,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">~ Demonstrating curiosity and making the most of opportunities to learn, improve and innovate ~</h3><br><br>
 
-- :desktop_computer: I am a web developer with years of experience in **Front-end Development**.
+
+- :desktop_computer: I worked as a **web developer** for a small digital firm for 2.5 years.
   
-- :woman_student: An aspiring software developer so I am currently studying **Back-end Development**.
+- :computer: **Front-end Development** self-taught.
+  
+- :desktop_computer: I completed a **Full stack development** program care of We Ignite Tech in Oslo.
+  
+- :woman_student: And I am an **aspiring software developer** so I am currently studying **Back-end Development**.
 
 - :e-mail: Feel free to reach out via email: **saccharin07@hotmail.com**
   
