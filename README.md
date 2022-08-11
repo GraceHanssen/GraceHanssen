@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 <h3 align="center">~ Demonstrating curiosity and making the most of opportunities to learn, improve and innovate ~</h3><br><br>
 
 
-👩‍🎓  I graduted Bachelor of Science in Computer Science at STI-College Tacloban Leyte, Philippines.
+👩‍🎓  I graduted Bachelor of Science in Computer Science at STI-College Tacloban Leyte, Philippines in 2005.
 
-💻 I am a Front-end Development self-taught using w3schools, SoloLearn, TeamTreeHouse, FreeCodeCamp and many other learning platforms online.
+💻 I was a self-taught in Frontend Development using w3schools, SoloLearn, TeamTreeHouse, FreeCodeCamp and many other learning platforms online since 2017.
 
-👩‍💻 I have completed a **Full Stack Development** program, care of We Ignite Tech in Oslo.
+👩‍💻 I have completed a **Full Stack Development** program, care of We Ignite Tech in Oslo in 2018.
 
-🖥️ I have worked as a **web developer** for a small digital firm for almost three years.
+🖥️ I have worked as a **web developer** for a small digital firm from 2019 to 2021.
 
-🙂 And now I am an aspiring **software developer** and a full time student focusing on Back-end Development.
+🙂 And now I am an aspiring **software developer** and a full time student focusing on Back-end Development, school year 2021 - 2023.
 
 📧 I am willing to be mentored, open for internship and job opportunities as a developer. So please do not hesitate to reach out to me via email: saccharin07@hotmail.com
   
